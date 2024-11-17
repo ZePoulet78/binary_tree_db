@@ -1,0 +1,4 @@
+{
+"artists":[{"id":2,"name":"ezv","left":{"id":1,"name":"vez","left":null,"right":null},"right":{"id":4,"name":"regaze","left":{"id":3,"name":"zev","left":null,"right":null},"right":{"id":5,"name":"Anirudh","left":null,"right":null}}}],
+"musics":[{"id":2,"title":"czec","duration":89,"artist_id":2,"left":{"id":1,"title":"Manasilayo","duration":220,"artist_id":1,"left":null,"right":null},"right":{"id":3,"title":"pourt","duration":38,"artist_id":1,"left":null,"right":null}}]
+}
