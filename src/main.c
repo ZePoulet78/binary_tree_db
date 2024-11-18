@@ -38,7 +38,7 @@ int main() {
     unsigned int duration;
 
     while (1) {
-        printf("\n----------------- Menu -----------------\n");
+        printf("\n----------------- Artist and Music Database Manager ----------------\n");
         printf("1. Add Artist\n");
         printf("2. Add Music\n");
         printf("3. Show Artists\n");
@@ -51,7 +51,7 @@ int main() {
         printf("10. Save to JSON\n");
         printf("11. Load from JSON\n");
         printf("12. Exit\n");
-        printf("----------------------------------------\n");
+        printf("----------------------------------------------------------------------\n");
         int choice = get_menu_choice();
         if (choice == -1) {
             continue; 
