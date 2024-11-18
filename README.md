@@ -195,5 +195,5 @@ Artists and music tracks are saved in the following JSON structure:
 * Support for exporting and importing data in CSV or XML formats.
 
 ## Contributors
-* **Author:** Donnesh Yathavarasan
+* **Author:** Donnesh YATHAVARASAN
 * **Affiliation:** ESGI, 3rd Year, Cybersecurity specialization.
