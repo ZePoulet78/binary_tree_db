@@ -100,7 +100,7 @@ make clean
 When you start the program, the following interactive menu will be displayed:
 
 ```
------------------ Menu -----------------
+----------------- Artist and Music Database Manager ----------------
 1. Add Artist
 2. Add Music
 3. Display Artists
@@ -113,7 +113,7 @@ When you start the program, the following interactive menu will be displayed:
 10. Save to JSON
 11. Load from JSON
 12. Exit
-----------------------------------------
+----------------------------------------------------------------------
 ```
 
 ### Example Commands
